@@ -1,3 +1,4 @@
+'use client'
 import PostsGrid from "@/components/postsGrid";
 import { Check, ChevronLeft, Settings } from "lucide-react";
 import Image from "next/image";
