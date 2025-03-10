@@ -16,7 +16,8 @@ export default function ProfilePage() {
             <Check size={16} color="white"/>
           </div>
         </div>
-        <button><Settings /></button>
+        <Link href='/settings'><Settings /></Link>
+ 
       </section>
 
       {/* avatar */}
